@@ -1,4 +1,5 @@
-mod list;
+mod linklist;
+pub mod node;
 
 #[cfg(test)]
 mod tests {
